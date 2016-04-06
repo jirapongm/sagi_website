@@ -59,7 +59,7 @@ Create Project
 $ composer create-project yiisoft/yii2-app-advanced sagi_web
 $ cd sagi_web
 $ composer update
-```php
+```
 
 Cloning
 -------
