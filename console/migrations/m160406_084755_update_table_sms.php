@@ -6,7 +6,7 @@ class m160406_084755_update_table_sms extends Migration
 {
     public function up()
     {
-		$this->renameTable('table_sms','sms');  
+		$this->renameTable('table_sms','sms');
     }
 
     public function down()
