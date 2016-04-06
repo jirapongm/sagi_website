@@ -2,7 +2,7 @@
 
 use yii\db\Migration;
 
-class m160406_084755_update_table_sms extends Migration
+class m160406_084756_update_table_sms extends Migration
 {
     public function up()
     {
