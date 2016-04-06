@@ -70,3 +70,12 @@ Initialization
 
 Configuration
 -------------
+
+Pull & Push
+-----------
+```php
+$ git pull
+$ git add -A
+$ git commit -m "text of comment"
+$ git push -u origin master
+```
