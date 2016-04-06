@@ -52,3 +52,21 @@ environments/            contains environment-based overrides
 tests                    contains various tests for the advanced application
     codeception/         contains tests developed with Codeception PHP Testing Framework
 ```
+
+Create Project
+--------------
+```php
+$ composer create-project yiisoft/yii2-app-advanced sagi_web
+$ cd sagi_web
+$ composer update
+```
+
+Cloning
+-------
+
+
+Initialization
+--------------
+
+Configuration
+-------------
